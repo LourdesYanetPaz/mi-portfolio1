@@ -8,11 +8,11 @@ Este proyecto ha sido programado a medida del cursado de YoProgramo.
 ¡Mira el código y disfruta!
 
 ##  Verlo en directo en Github Pages
-* [ https://.github.io/Portfolio-desde-cero/ ](https://.github.io/Portfolio-desde-cero/)
+* [ https://lourdesyanetpaz.github.io./mi-portfolio1/ ](https://lourdesyanetpaz.github.io./mi-portfolio1/)
 
 ##  Autor ✒️
 **Lourdes Paz** - *Documentación y trabajo inicial*
-* [ Github ](https://github.com/)
+* [ Github ](https://github.com/LourdesYanetPaz)
 * [ Youtube ](https://youtube.com/)
 * [ Instagram ](https://instagram.com/)
 * [ Twitter ](https://twitter.com/)
